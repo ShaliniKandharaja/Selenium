@@ -3,7 +3,7 @@ package seleniumbasics;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+// Simple Launch browser Code
 public class LaunchBrowser {
 
 	public static void main(String[] args) {
@@ -36,3 +36,4 @@ public class LaunchBrowser {
 	}
 
 }
+
